@@ -1,0 +1,28 @@
+### Hi, I'm Adegbola 👋
+
+**DevOps / DevSecOps engineer** — I build CI/CD pipelines and cloud infrastructure with security built in from the start, not bolted on after.
+
+**Focus areas:** container supply-chain security · CI/CD pipeline design · infrastructure as code · Kubernetes · shift-left AppSec (SAST/DAST/SCA)
+
+---
+
+#### A few things I've built
+
+- 🔐 **[hardened-base](https://github.com/platform-base-images/hardened-base)** — Hardened, CVE-free Docker base images (Wolfi/Chainguard), Cosign-signed, SBOM-attested, SLSA L2+ provenance, with automated CVE and EOL scanning.
+- 🧪 **[shieldpay-devsec-lab](https://github.com/adegbolaA/shieldpay-devsec-lab)** — A fintech-style demo app used to practice threat modeling, CI security gates (SAST, secrets scanning, SCA, OpenSSF Scorecard), and secure SDLC end to end.
+- ☁️ **[A-DevopsChallenge](https://github.com/CodeHubInnovations/A-DevopsChallenge)** — Terraform-provisioned EKS cluster with a full Jenkins CI/CD pipeline and Prometheus/Grafana monitoring.
+- 🏗️ **[ClaruswayCapStone](https://github.com/adegbolaA/ClaruswayCapStone)** — A 3-tier app on AWS: ALB + Auto Scaling, RDS, S3, Lambda, DynamoDB, CloudFront, all inside an isolated VPC.
+
+#### Skills
+
+**Security & DevSecOps:** `SAST/DAST/SCA` `Fortify SCA` `Snyk` `CodeQL` `OWASP Dependency-Check` `tfsec` `Gitleaks` `Talisman` `Bandit` `GitHub Advanced Security` `Trivy` `Aqua Security` `SBOM` `Renovate/Dependabot`
+
+**CI/CD & Automation:** `Jenkins` `GitHub Actions (reusable workflows, composite actions, OIDC)` `GitLab CI` `JFrog Artifactory` `SonarQube` `GitHub Copilot` `ServiceNow` `Atlassian`
+
+**Cloud & Infrastructure:** `AWS` `Docker` `Kubernetes` `Terraform` `Ansible`
+
+**Programming & Scripting:** `Python` `Java / Spring Boot` `JavaScript` `React` `Shell Scripting` `Bash` `PowerShell` `YAML` `JSON`
+
+---
+
+Open to DevOps / DevSecOps / Platform Engineering opportunities.
