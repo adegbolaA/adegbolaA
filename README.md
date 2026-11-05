@@ -11,7 +11,7 @@
 - 🔐 **[hardened-base](https://github.com/platform-base-images/hardened-base)** — Hardened, CVE-free Docker base images (Wolfi/Chainguard), Cosign-signed, SBOM-attested, SLSA L2+ provenance, with automated CVE and EOL scanning.
 - 🧪 **[shieldpay-devsec-lab](https://github.com/adegbolaA/shieldpay-devsec-lab)** — A fintech-style demo app used to practice threat modeling, CI security gates (SAST, secrets scanning, SCA, OpenSSF Scorecard), and secure SDLC end to end.
 - ☁️ **[A-DevopsChallenge](https://github.com/CodeHubInnovations/A-DevopsChallenge)** — Terraform-provisioned EKS cluster with a full Jenkins CI/CD pipeline and Prometheus/Grafana monitoring.
-- 🏗️ **[ClaruswayCapStone](https://github.com/adegbolaA/ClaruswayCapStone)** — A 3-tier app on AWS: ALB + Auto Scaling, RDS, S3, Lambda, DynamoDB, CloudFront, all inside an isolated VPC.
+- 🏗️ **[aws-django-blog-3tier](https://github.com/adegbolaA/ClaruswayCapStone)** — A 3-tier app on AWS: ALB + Auto Scaling, RDS, S3, Lambda, DynamoDB, CloudFront, all inside an isolated VPC.
 
 #### Skills
 
